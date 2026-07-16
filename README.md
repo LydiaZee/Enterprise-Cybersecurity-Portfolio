@@ -30,13 +30,18 @@ https://lydiakawonza.wixsite.com/rss-portfolio
 ## Security Domains Covered
 
 - Security & Risk Management
+ <img width="1672" height="941" alt="security and risk" src="https://github.com/user-attachments/assets/89c9ee46-2470-4598-bfaf-ec703b1f6e3c" />
+ 
 - Asset Security
 - Security Architecture & Engineering
 - Communication & Network Security
-- Identity & Access Management (IAM)
+  <img width="1346" height="1169" alt="4 4" src="https://github.com/user-attachments/assets/1d9eb4f0-11f5-45e3-bbd0-2fdd30ec34be" />
+- Identity & Access Management (IAM) 
 - Security Assessment & Testing
 - Security Operations
 - Software Development Security
+  <img width="1448" height="1086" alt="dom 8" src="https://github.com/user-attachments/assets/3a847ea7-16c7-446d-8fc7-d8e78b23aa16" />
+
 
 ---
 
@@ -117,7 +122,6 @@ Rapid Software Solutions (RSS) is a created for academic purposes. The project d
 🎓 M.S. Cybersecurity Student 
 
 - GitHub: https://github.com/LydiaZee
-- Portfolio: https://lydiakawonza.wixsite.com/rss-portfolio
 - LinkedIn: https://www.linkedin.com/in/lydia-kawonza-6a8bb7175/
 
 ---
